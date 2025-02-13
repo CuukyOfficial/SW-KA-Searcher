@@ -1,0 +1,1 @@
+A simple project of mine to fetch data from the KIT apartment lookup website to get notified about new apartments being available. The project is written in Python and uses the BeautifulSoup library to parse the HTML content of the website. 
